@@ -4532,7 +4532,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "470nF"
 			(at 48.768 47.498 0)
 			(effects
 				(font
